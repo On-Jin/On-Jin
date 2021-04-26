@@ -2,6 +2,8 @@
 
 Student at 42Paris.
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=ntoniolo)](https://cv.42.fr/ntoniolo)
+
 ## Social:
 [![C++](https://img.shields.io/badge/-On--Jin-000?style=flat-square&logo=github)]()
 [![C++](https://img.shields.io/badge/-Noé%233713-000?style=flat-square&logo=discord)]()
